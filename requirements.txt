@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+gradio
+pydantic
+python-dotenv
+
+youtube-transcript-api
+
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-groq
+
+chromadb
+sentence-transformers
